@@ -46,6 +46,10 @@ body {
     background-color: var(--rose-50);
 }
 
+[v-cloak] {
+    display: none;
+}
+
 .flex {
     display: flex;
     flex-direction: row;
